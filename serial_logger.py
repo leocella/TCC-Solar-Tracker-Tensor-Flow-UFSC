@@ -3,7 +3,7 @@ import csv
 import time
 
 # --- CONFIGURAÇÃO ---
-COM_PORT = 'COM4'  # <--- CONFIRA SUA PORTA (No Linux/Mac é /dev/ttyUSB0)
+COM_PORT = 'COM3'  # <--- CONFIRA SUA PORTA (No Linux/Mac é /dev/ttyUSB0)
 BAUD_RATE = 115200
 FILENAME = 'solar_data.csv'
 

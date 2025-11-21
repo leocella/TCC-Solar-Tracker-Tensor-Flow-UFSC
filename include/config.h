@@ -30,5 +30,5 @@
 #define SERVO_H_MAX     180
 #define SERVO_V_MIN     50
 #define SERVO_V_MAX     150
-#define TOLERANCIA_LDR  60
+#define TOLERANCIA_LDR  50
 #define CHECK_INTERVAL  100 // ms
